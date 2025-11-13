@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Editing some text here. Will this appear?
