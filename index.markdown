@@ -15,4 +15,4 @@ In this book we provide a comprehensive overview of the rich new theory that has
 
 This is an early draft. Comments are welcome.
 
-This material has will be published by Cambridge University Press as *Prophet Inequalities: Theory and Practice* by José Correa, Paul Dütting, Michal Feldman, Thomas Kesselheim, and Brendan Lucier. This pre-publication version is free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works. © copyright by J. Correa, P. Dütting, M. Feldman, T. Kesselheim, and B. Lucier, 2025
+This material will be published by Cambridge University Press as *Prophet Inequalities: Theory and Methods* by José Correa, Paul Dütting, Michal Feldman, Thomas Kesselheim, and Brendan Lucier. This pre-publication version is free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works. © copyright by J. Correa, P. Dütting, M. Feldman, T. Kesselheim, and B. Lucier, 2025
