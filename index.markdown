@@ -11,8 +11,8 @@ such as ad auctions and ride sharing.  This recent excitement has led to an expl
 
 In this book we provide a comprehensive overview of the rich new theory that has been developed over the past decade. This comprises techniques such as balanced prices and online contention resolution schemes, along with data-driven approaches.
 
-[Preliminary Version of Chapters 1 to 4 (PDF)](pibook.pdf)
+[Preliminary Version of Chapters 1 to 5 (PDF)](pibook.pdf)
 
 This is an early draft. Comments are welcome.
 
-This material will be published by Cambridge University Press as *Prophet Inequalities: Theory and Methods* by José Correa, Paul Dütting, Michal Feldman, Thomas Kesselheim, and Brendan Lucier. This pre-publication version is free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works. © copyright by J. Correa, P. Dütting, M. Feldman, T. Kesselheim, and B. Lucier, 2025
+This material will be published by Cambridge University Press as *Prophet Inequalities: Theory and Methods* by José Correa, Paul Dütting, Michal Feldman, Thomas Kesselheim, and Brendan Lucier. This pre-publication version is free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works. © copyright by J. Correa, P. Dütting, M. Feldman, T. Kesselheim, and B. Lucier, 2025–2026
